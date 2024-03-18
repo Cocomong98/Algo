@@ -23,6 +23,7 @@ key의 왼쪽부터 시작해 비교함
 
 int main(){
      
-    
+    int a = 3;
+
     return 0;
 }
